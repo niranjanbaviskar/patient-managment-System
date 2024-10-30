@@ -1,6 +1,6 @@
 # Full StackDoctor Appointment Booking Website
 
-In this project, I will make a Doctor appointment booking app using React JS and Tailwind CSS.
+In this project, I will make a Doctor appointment booking website using React JS and Tailwind CSS.
 
 In this project, I will create an online appointment booking website for doctor or hospital. In this hospital website I will add multiple doctors and user can filter the doctor with their specialty. User and choose the date and time slot within 7 days window and book the appointment with the doctor.
 
@@ -15,8 +15,8 @@ Link 👉 https://drive.google.com/file/d/16aIsRB-U5EbOEYP-HmJl0rKYFfEAWN2O/view
 
 #### Clone the repository and install project dependencies.
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Doctor-Appointment-Booking-App.git
-  cd Doctor-Appointment-Booking-App
+  git clone https://github.com/MrTharinduDasantha/Doctor-Appointment-Booking-Website.git
+  cd Doctor-Appointment-Booking-Website
 ```
 #### Run the Project
 Start the development server.
@@ -42,4 +42,4 @@ npm run dev
 ![image alt](https://github.com/MrTharinduDasantha/Doctor-Appointment-Booking-App/blob/1af3def22bb6451b7369cb93fe9ebc85e4a3714a/Img%20-%2013.png)
 ![image alt](https://github.com/MrTharinduDasantha/Doctor-Appointment-Booking-App/blob/1af3def22bb6451b7369cb93fe9ebc85e4a3714a/Img%20-%2014.png)
 
-<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
+<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
