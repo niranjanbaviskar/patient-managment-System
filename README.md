@@ -42,4 +42,4 @@ npm run dev
 ![image alt](https://github.com/MrTharinduDasantha/Doctor-Appointment-Booking-App/blob/1af3def22bb6451b7369cb93fe9ebc85e4a3714a/Img%20-%2013.png)
 ![image alt](https://github.com/MrTharinduDasantha/Doctor-Appointment-Booking-App/blob/1af3def22bb6451b7369cb93fe9ebc85e4a3714a/Img%20-%2014.png)
 
-<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
+<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
