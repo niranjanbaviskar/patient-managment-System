@@ -1,4 +1,4 @@
-# Full StackDoctor Appointment Booking Website
+# Doctor Appointment Booking Website
 
 In this project, I will make a Doctor appointment booking website using React JS and Tailwind CSS.
 
