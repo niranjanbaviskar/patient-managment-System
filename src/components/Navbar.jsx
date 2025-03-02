@@ -2,6 +2,7 @@
 import React, { useState } from 'react'
 import { assets } from '../assets/assets'
 import { NavLink, useNavigate } from 'react-router-dom'
+import logo from '../assets/logo.png';
 
 const Navbar = () => {
   const navigate = useNavigate()
@@ -10,7 +11,7 @@ const Navbar = () => {
   const [token, setToken] = useState(true)
   return (
     <div className='flex items-center justify-between text-sm py-4 mb-5 border-b border-b-gray-400'>
-      <img onClick={() => navigate('/')} className='w-44 cursor-pointer' src={assets.logo} alt='Logo' />
+      <img onClick={() => navigate('/')} className='w-44 cursor-pointer' src={logo}  alt='Logo' />
       <ul className='hidden md:flex items-start gap-5 font-medium'>
         <NavLink to='/'>
           <li className='py-1'>HOME</li>
@@ -18,6 +19,14 @@ const Navbar = () => {
         </NavLink>
         <NavLink to='/doctors'>
           <li className='py-1'>All DOCTORS</li>
+          <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden'/>
+        </NavLink>
+        <NavLink to='chatbot'>
+          <li className='py-1'>AI Assistant</li>
+          <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden'/>
+        </NavLink>
+        <NavLink to='HospitalLocator'>
+          <li className='py-1'>Nearest Hospital</li>
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden'/>
         </NavLink>
         <NavLink to='about'>

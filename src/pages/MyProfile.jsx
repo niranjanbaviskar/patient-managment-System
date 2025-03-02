@@ -4,9 +4,9 @@ import { assets } from '../assets/assets'
 
 const MyProfile = () => {
   const [userData, setUserData] = useState({
-    name: 'Edward Vincent',
+    name: 'Niranjan Baviskar',
     image: assets.profile_pic,
-    email: 'richardjameswap@gmail.com',
+    email: 'niranjanbaviskar23@gmail.com',
     phone: '+1  123 456 7890',
     address: {
       line1: '57th Cross, Richmond',
